@@ -8,5 +8,6 @@ public class GitText {
         System.out.println("Hello Git4");
         System.out.println("Hot fix text");
         System.out.println("true hot fix second");
+        System.out.println("Nice to meet you");
     }
 }
